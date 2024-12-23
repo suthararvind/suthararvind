@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nextjs and other technologies.**
 
-- 👨‍💻 All of my projects are available at [https://suthararvind.github.io/Portfolio/](https://suthararvind.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://suthararvind/Portfolio/](https://675d4b6833df64bf70635013--asjlrportfolio.netlify.app/)
 
 - 📫 How to reach me **suthararvindjlr757@gmail.com**
 
